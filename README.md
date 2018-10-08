@@ -12,7 +12,7 @@ I created this project in the spirit of hacktoberfest so that you can do a very 
 
 I get it. You are new to this whole thing. But don't worry, here is a great [guide](https://guides.github.com/activities/hello-world/) to help you understand.
 
-### Discover interesting projects
+### Discover interesting projects!!
 
 Now are you looking for a project to contribute. [Here](https://github.com/search?q=label:hacktoberfest+state:open+type:issue) is the list of issues in different projects.  
 
